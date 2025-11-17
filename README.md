@@ -1,1 +1,2 @@
 # Kyodo_FinanceApp
+財務分析用のStreamlitアプリ
